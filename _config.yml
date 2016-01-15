@@ -11,7 +11,7 @@ email: ddakshe@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   면접 질문 리스트 입니다.
   가장 답변하기 어려운 질문은 무엇일까요? 바로 "너테출??"
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/blog-interview" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: ddakshe
 github_username:  ddakshe
