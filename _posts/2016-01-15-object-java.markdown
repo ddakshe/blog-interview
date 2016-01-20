@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "객체란.?"
+title:  "객체란.? 캡슐화"
 date:   2016-01-15 16:35:57 +0900
 categories: jekyll update
 ---
